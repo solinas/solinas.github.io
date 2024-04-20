@@ -1,7 +1,7 @@
 ---
 title: "History Filtering in Imperfect Information Games: Algorithms and Complexity"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/2024-02-13-history-filtering.md
 excerpt: 'This paper introduces a new approximation method for scaling depth-limited search in imperfect information games.'
 date: 2024-02-13
 venue: 'NeurIPS 2023'
