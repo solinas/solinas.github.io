@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Christopher Solinas
+title                    : "Christopher Solinas"
 title_separator          : "-"
 name                     : &name "Christopher Solinas"
 description              : &description "personal description"
