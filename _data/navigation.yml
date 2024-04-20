@@ -5,11 +5,8 @@ main:
 
   - title: "Media"
     url: /media/    
-
-  - title: "Teaching"
-    url: /teaching/    
         
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /year-archive/
     
   - title: "CV"
