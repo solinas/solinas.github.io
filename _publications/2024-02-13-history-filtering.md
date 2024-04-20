@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-02-13-history-filtering
 excerpt: 'This paper introduces a new approximation method for scaling depth-limited search in imperfect information games.'
 date: 2024-02-13
-venue: 'NeurIPS 2023'
+venue: 'NeurIPS'
 paperurl: 'https://proceedings.neurips.cc/paper_files/paper/2023/file/87ee1bbac4635e7c948f3eea83c1f262-Paper-Conference.pdf'
 ---
 
