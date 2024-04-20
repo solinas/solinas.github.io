@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-07-17-trick-taking
 excerpt: 'This paper uses deep learning to approximate factored belief distributions for search in a trick-taking card game called Skat.'
 date: 2019-07-17
-venue: 'AAAI 2019'
+venue: 'AAAI'
 paperurl: 'https://ojs.aaai.org/index.php/AAAI/article/view/3909/3787'
 ---
 
